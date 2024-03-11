@@ -1,6 +1,6 @@
 public class TBejer1array {
     public static void main(String[] args) {
-        int[] numeros = {3,6,8,0,4,9,9,2};
+        int[] numeros = {3,6,8,0,4,9,9,2,5,6};
 
         //Bucles for
         for (int i = 0; i < numeros.length; i++) {

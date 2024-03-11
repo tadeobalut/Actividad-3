@@ -2,7 +2,7 @@ public class TBejer2array {
     public static void main(String[] args) {
         int[] array1 = {2, 4, 6, 8};
         int[] array2 = {3, 4, 1, 0};
-        int[] array3 = {9, 9, 4, 2};
+        int[] array3 = {9, 9, 4, 6};
 
         //Suma los arrays
         int[] resultado = new int[array1.length];
